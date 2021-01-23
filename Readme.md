@@ -1,16 +1,22 @@
-# casos de uso
+# Projeto Proffy Server
 
-# Funcionalidades
+Projeto desenvolvido utilizando Node.Js durante o primeiro semestre de 2020. Esse projeto utiliza três plataformas pilares que tem como objetivo ser um sistema utilizado por professores e alunos para interagirem durante o período de estudo, principalmente com o objetivo dos alunos poderem se orientar dos dias de aula des seus educadores.
 
-## Conexões
+# RocketSeat
 
--Rota para listar o total de conexões realizadas
--Rota para criar uma nova conexão
+Foi desenvolvido sob a orientação dos desenvolvedores geniais da RocketSeat durante a segunda edição da NLW ( New Last Week ) no ano de 2020, os aprendizados obtidos foram muito além do esperado.
 
-## Aulas
+## Pilares do projeto
 
--rota para criar aula
--rota para listar aulas
-    -filtrar por materia, dia da semana e horario
+--> ProffyMobile:
 
- knex permite criar instruções SQL usando JS   
+Dispõe do projeto mobile em React Native desenvolvido para a plataforma Proffy.
+
+--> ProffyServer:
+
+Dispõe do projeto de banco de dados desenvolvido para conversar entre o projeto WEB e Mobile.
+
+--> ProffyWeb:
+
+Dispõe do projeto WEB desenvolvido em React, conta com ambiente bem idealizado e sugestivo para seus usuários
+ 
